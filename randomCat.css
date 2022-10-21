@@ -1,0 +1,28 @@
+.titulo {
+  font-family: sans-serif;
+  color: moccasin;
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.marcoImagen {
+  display: flex;
+  justify-content: center;
+}
+
+.imagen {
+  width: 60vw;
+  height: 60vh;
+}
+
+.boton {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5vh;
+}
